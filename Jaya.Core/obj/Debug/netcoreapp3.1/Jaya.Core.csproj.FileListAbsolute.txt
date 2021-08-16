@@ -1,0 +1,9 @@
+C:\Users\Rodrigo\source\repos\JayaApi\Jaya.Core\bin\Debug\netcoreapp3.1\Jaya.Core.deps.json
+C:\Users\Rodrigo\source\repos\JayaApi\Jaya.Core\bin\Debug\netcoreapp3.1\Jaya.Core.dll
+C:\Users\Rodrigo\source\repos\JayaApi\Jaya.Core\bin\Debug\netcoreapp3.1\Jaya.Core.pdb
+C:\Users\Rodrigo\source\repos\JayaApi\Jaya.Core\obj\Debug\netcoreapp3.1\Jaya.Core.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\source\repos\JayaApi\Jaya.Core\obj\Debug\netcoreapp3.1\Jaya.Core.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\source\repos\JayaApi\Jaya.Core\obj\Debug\netcoreapp3.1\Jaya.Core.AssemblyInfo.cs
+C:\Users\Rodrigo\source\repos\JayaApi\Jaya.Core\obj\Debug\netcoreapp3.1\Jaya.Core.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\source\repos\JayaApi\Jaya.Core\obj\Debug\netcoreapp3.1\Jaya.Core.dll
+C:\Users\Rodrigo\source\repos\JayaApi\Jaya.Core\obj\Debug\netcoreapp3.1\Jaya.Core.pdb
